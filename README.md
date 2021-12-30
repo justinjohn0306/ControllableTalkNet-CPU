@@ -4,9 +4,7 @@ which mimics the pitch and pacing of an existing audio clip. It's based on [NVID
 of TalkNet 2, with some changes to support singing synthesis and higher audio quality.
 
 ## Requirements
-* A Google account to run Colab, or...
-* An NVIDIA GPU with 4+ GB of VRAM
-* 10 GB of free space
+* A Google account to run Colab.
 
 ## How to run
 ### Google Colab

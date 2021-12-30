@@ -11,4 +11,4 @@ of TalkNet 2, with some changes to support singing synthesis and higher audio qu
 * [Go to the Colab notebook](https://colab.research.google.com/drive/1aj6Jk8cpRw7SsN3JSYCv57CrR6s0gYPB) and follow the instructions.
 
 
-Thanks to : [SortAnon](https://github.com/SortAnon) and [mega b](https://github.com/johnpaulbin)
+Thanks to : [SortAnon](https://github.com/SortAnon) and [mega b#6696](https://github.com/johnpaulbin)

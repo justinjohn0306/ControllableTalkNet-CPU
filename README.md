@@ -8,7 +8,7 @@ of TalkNet 2, with some changes to support singing synthesis and higher audio qu
 
 ## How to run
 ### Google Colab
-* [Go to the Colab notebook](https://colab.research.google.com/github/justinjohn0306/ControllableTalkNet-CPU/blob/main/ControllableTalkNet(CPU).ipynb) and follow the instructions.
+* [Go to the Colab notebook](https://github.com/justinjohn0306/ControllableTalkNet/blob/main/ControllableTalkNet(CPU).ipynb) and follow the instructions.
 
 
 Thanks to : [SortAnon](https://github.com/SortAnon) and [mega b#6696](https://github.com/johnpaulbin)
